@@ -7,7 +7,8 @@
 - 📫 How to reach me: shahvraj26@gmail.com
 - 😄 Pronouns: He, Him
 
-### Reach me At:
+### Websites:
 
-- [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-
+# High School Portfolio: https://vraj2003.wixsite.com/portfolio
+# Tech Portfolio Non-Coded: https://shahvraj.wixsite.com/computers
+# Tech Portfolio Coded: https://shahvraj26.github.io/   : WORK IN PROGRESS
