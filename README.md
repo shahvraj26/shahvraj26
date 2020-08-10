@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shahvraj26/shahvraj26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on a website
 - 🌱 I’m currently learning html, css, javascript
 - 🤔 I’m looking for help with html media queries
@@ -13,4 +10,4 @@
 ### Reach me At:
 
 - [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
--->
+
