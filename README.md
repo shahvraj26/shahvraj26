@@ -15,4 +15,8 @@ Tech Portfolio Coded: https://shahvraj26.github.io/   : WORK IN PROGRESS
 
 ### About Me:
 
-Hello I am a senior in high school. I have competed in ethical hacking competitions and cyber-security competitions. I have placed 300th out of 5000 college individuls in national cyber league:a ethical hacking competition. As a team we have placed 23rd out of 5000 teams in CyberPatriots: cyber-security/vulnerability finder competition.
+Hello I am a senior in high school. I have competed in ethical hacking competitions and cyber-security competitions. I have placed 300th out of 5000 college individuls in national cyber league: a ethical hacking competition. As a team we have placed 23rd out of 5000 teams in CyberPatriots: cyber-security/vulnerability finder competition.
+
+Hopefully we can talk. To contact me: 
+
+📫shahvraj26@gmail.com
