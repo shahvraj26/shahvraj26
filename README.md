@@ -24,5 +24,3 @@ Hello I am a senior in high school. I have competed in ethical hacking competiti
 Hopefully we can talk. To contact me: 
 
 - 📫 shahvraj26@gmail.com
-- 💻 https://twitter.com/shahvraj26/
-- 📱 https://www.instagram.com/vrajshah13/
