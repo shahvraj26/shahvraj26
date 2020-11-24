@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on a website
 - 🌱 I’m currently learning html, css, javascript
-- ❓ I’m looking for help with html media queries
+- ❓ I’m looking for help with JavaScript
 - 💬 Ask me about ethical hacking, programming, and cyber-security
-- 😄 Pronouns: He, Him
 
 ### Websites:
 
