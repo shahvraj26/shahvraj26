@@ -8,7 +8,6 @@
 ### Websites:
 
 - 💻 High School Portfolio: https://vraj2003.wixsite.com/portfolio
-- 💻 Tech Portfolio Non-Coded: https://shahvraj.wixsite.com/computers
 - 💻 Tech Portfolio Coded: https://shahvraj26.github.io/
 
 ### About Me:
